@@ -1,4 +1,4 @@
-package com.emoran.ejercicio61binario;
+package com.emoran.ejercicio62binario;
 
 import org.junit.Test;
 

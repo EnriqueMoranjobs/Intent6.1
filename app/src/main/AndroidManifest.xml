@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.emoran.ejercicio61binario">
+    package="com.emoran.ejercicio62binario">
 
     <application
         android:allowBackup="true"
@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ejercicio61Binario">
         <activity
-            android:name=".CuartaActivity"
+            android:name="com.emoran.ejercicio62binario.CuartaActivity"
             android:exported="true" />
         <activity
-            android:name=".TerceraActivity"
+            android:name="com.emoran.ejercicio62binario.TerceraActivity"
             android:exported="true" />
         <activity
-            android:name=".SegundaActivity"
+            android:name="com.emoran.ejercicio62binario.SegundaActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.emoran.ejercicio62binario.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

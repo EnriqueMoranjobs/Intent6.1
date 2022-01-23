@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Enrique/AndroidStudioProjects/Intent6.2/app/src/main/res/layout/activity_cuarta.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Enrique/AndroidStudioProjects/Intent6.2/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Enrique/AndroidStudioProjects/Intent6.2/app/src/main/res/layout/activity_segunda.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Enrique/AndroidStudioProjects/Intent6.2/app/src/main/res/layout/activity_tercera.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/Ejercicio61Binario/app/src/main/res/layout/activity_cuarta.xml" value="0.264" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/Ejercicio61Binario/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/Ejercicio61Binario/app/src/main/res/layout/activity_segunda.xml" value="0.2" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/Ejercicio61Binario/app/src/main/res/layout/activity_tercera.xml" value="0.176" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Intent6.2/app/src/main/res/layout/activity_cuarta.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Intent6.2/app/src/main/res/layout/activity_tercera.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
@@ -15,5 +21,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.13020833333333334" />
+      </ProjectState>
+    </option>
   </component>
 </project>
